@@ -4,3 +4,4 @@
 /.venv/.gitignore
 /.venv/pyvenv.cfg
 /.idea/
+/.config #hiden config file with telegram TOKEN
